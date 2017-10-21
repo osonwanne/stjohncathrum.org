@@ -102,3 +102,5 @@ ENV/
 
 .idea/
 Procfile
+
+db.sqlite3
